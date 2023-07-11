@@ -4,7 +4,7 @@
   "description": "um teste de construção de um projeto completamente do zero de criar um espaço mais legal na internet!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
