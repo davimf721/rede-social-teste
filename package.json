@@ -4,7 +4,7 @@
   "description": "um teste de construção de um projeto completamente do zero de criar um espaço mais legal na internet!",
   "main": "index.js",
   "scripts": {
-   "dev": "next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
